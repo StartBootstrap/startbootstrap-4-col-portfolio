@@ -1,0 +1,16 @@
+{
+    "name": "startbootstrap-4-col-portfolio",
+    "title": "4 Col Portfolio",
+    "description": "4 Col Portfolio is a four column portfolio template for Bootstrap created by Start Bootstrap.",
+    "version": "4.0.0-alpha",
+    "homepage": "http://startbootstrap.com/template-overviews/4-col-portfolio",
+    "author": "Start Bootstrap",
+    "license": {
+        "type": "MIT",
+        "url": "https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/BlackrockDigital/startbootstrap-4-col-portfolio.git"
+    }
+}
