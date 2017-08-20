@@ -3,6 +3,7 @@
 [4 Col Portfolio](https://startbootstrap.com/template-overviews/4-col-portfolio/) is a four column portfolio layout template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/).
 
 ## Preview
+
 [![4 Col Portfolio Preview](https://startbootstrap.com/assets/img/templates/4-col-portfolio.jpg)](https://blackrockdigital.github.io/startbootstrap-4-col-portfolio/)
 
 **[View Live Preview](https://blackrockdigital.github.io/startbootstrap-4-col-portfolio/)**
